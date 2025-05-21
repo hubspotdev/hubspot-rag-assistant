@@ -136,6 +136,7 @@ You'll get a local UI where you can enter questions and see answers and source s
 
 * [OpenAI](https://platform.openai.com/docs)
 * [Pinecone](https://www.pinecone.io/)
+* [LangChain](https://www.langchain.com/langchain)
 * [FastAPI](https://fastapi.tiangolo.com/)
 * [Streamlit](https://streamlit.io/) *(optional)*
 
